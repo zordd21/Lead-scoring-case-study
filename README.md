@@ -15,7 +15,7 @@ An education company named X Education sells online courses to industry professi
 * Precision- Recall
   
 # Details of given files
-Lead_score_cae_study.ipynb : the python file showing the data analysis 
-Lead scoring ppt.pdf : the power point presentation of the project
-Subjective question answers.pdf : the answers to the question given in the case study
-Summarry.pdf : a short summary of the entire case study  
+* Lead_score_cae_study.ipynb : the python file showing the data analysis 
+* Lead scoring ppt.pdf : the power point presentation of the project
+* Subjective question answers.pdf : the answers to the question given in the case study
+* Summarry.pdf : a short summary of the entire case study  
